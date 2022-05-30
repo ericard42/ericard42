@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![ericard's 42 stats](https://badge42.vercel.app/api/v2/cl3ssy7ey003109mmps5uhz9z/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
+
 <!--
 **ericard42/ericard42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
